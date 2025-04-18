@@ -1,0 +1,13 @@
+numpy
+pandas
+pyyaml
+matplotlib
+
+autograd
+scipy
+sympy
+scikit-learn
+
+python-dotenv
+requests
+debugpy

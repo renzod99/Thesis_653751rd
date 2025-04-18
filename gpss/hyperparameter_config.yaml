@@ -1,0 +1,23 @@
+bounds:
+  alpha_rq: [1, 5]
+  l_rq: [1, inf]
+  sigma_rq: [1, inf]
+
+  # l_matern: [1, inf]
+  # sigma_matern: [1e-3, inf]
+
+  # l_sqe: [0.1, inf]
+  # sigma_sqe: [1e-3, inf]
+
+  sigma_wn: [1e-5, inf]
+  R: [1e-3, inf]
+  nu: [5, inf]
+
+  # l_matern_2: [1, 100]
+  # sigma_matern_2: [1, 100]
+
+  # l_exp: [1, inf]
+  # sigma_exp: [1e-5, inf]
+  # omega: [0.5, 10]
+  # l_periodic: [1, 20]
+  # sigma_periodic: [1e-1, 10]

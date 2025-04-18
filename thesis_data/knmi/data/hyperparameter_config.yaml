@@ -1,0 +1,6 @@
+
+bounds:
+  omega: [0.523, 0.524]
+  omega_2: [0.087, 0.0875]
+  sigma_wn: [1e-2, 5]
+  R: [1e-2, inf]

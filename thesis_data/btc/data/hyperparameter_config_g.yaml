@@ -1,0 +1,9 @@
+bounds:
+  l_matern: [1e-1, inf]
+  sigma_matern: [1e-5, inf]
+
+  l_exp: [1e-1, inf]
+  sigma_exp: [1e-5, inf]
+
+  sigma_wn: [1e-5, inf]
+  R: [1e-5, 10]
